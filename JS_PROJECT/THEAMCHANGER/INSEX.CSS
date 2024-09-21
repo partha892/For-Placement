@@ -6,21 +6,25 @@
 
 #gray {
     background-color: gray;
+    border: 2px solid black;
 }
 
 #red {
     background-color: red;
+    border: 2px solid black;
 }
 
 #blue {
     background-color: blue;
+    border: 2px solid black;
 }
 
 #white {
     background-color: white;
-    border: 1px solid black; /* For visibility on white background */
+    border: 2px solid black; /* For visibility on white background */
 }
 
 #green {
     background-color: green;
+    border: 2px solid black;
 }
